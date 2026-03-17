@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.s
 ### Encontre-me por aqui 🌎
   
  <div> 
-  <a href = "mailto:gd.telles@icloud.com"><img src="https://img.odcdn.com.br/wp-content/uploads/2023/10/icloud-da-apple-.png" target="_blank"></a>
+  <a href = "mailto:gd.telles@icloud.com"><img src="https://support.apple.com/content/dam/edam/applecare/images/en_US/psp/psp_heroes/mini-hero-icloud.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-dutra-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
