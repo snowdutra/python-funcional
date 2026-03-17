@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.s
 ### Encontre-me por aqui 🌎
   
  <div> 
-  <a href = "mailto:gd.telles@icloud.com"><img src="https://www.google.com/imgres?q=icloud%20logo%20png&imgurl=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2023%2F10%2Ficloud-da-apple-.png&imgrefurl=https%3A%2F%2Folhardigital.com.br%2F2023%2F10%2F23%2Fdicas-e-tutoriais%2Ficloud-drive-o-que-e-e-como-entrar%2F&docid=ov_zYKk0zJU1PM&tbnid=de1I4Nz69XAVhM&vet=12ahUKEwik6_qE9aWTAxUklJUCHdymFXQQnPAOegQIGxAB..i&w=1200&h=675&hcb=2&ved=2ahUKEwik6_qE9aWTAxUklJUCHdymFXQQnPAOegQIGxAB" target="_blank"></a>
+  <a href = "mailto:gd.telles@icloud.com"><img src="https://img.odcdn.com.br/wp-content/uploads/2023/10/icloud-da-apple-.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-dutra-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
